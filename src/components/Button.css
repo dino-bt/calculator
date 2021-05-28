@@ -1,0 +1,20 @@
+
+
+.button{
+display:flex;
+height: 40px;
+flex: 1;
+justify-content: center;
+align-items: center;
+font-weight:lighter ;
+font-size: large;
+background-color: beige;
+color: gray;
+outline: 1px solid lightblue
+
+}
+
+.operator {
+    background-color: lightsalmon;
+    color: white;
+}
